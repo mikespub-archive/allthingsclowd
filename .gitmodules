@@ -4,3 +4,42 @@
 [submodule "K5-Public-Stacks"]
 	path = K5-Public-Stacks
 	url = https://github.com/allthingsclowd/K5-Public-Stacks.git
+[submodule "K5-Tech-Talks"]
+	path = K5-Tech-Talks
+	url = https://github.com/allthingsclowd/K5-Tech-Talks.git
+[submodule "OpenStack_Fujitsu_K5_Server_Build_API_Demo"]
+	path = OpenStack_Fujitsu_K5_Server_Build_API_Demo
+	url = https://github.com/allthingsclowd/OpenStack_Fujitsu_K5_Server_Build_API_Demo.git
+[submodule "Fujitsu_K5_User_Onboarding_Demo"]
+	path = Fujitsu_K5_User_Onboarding_Demo
+	url = https://github.com/allthingsclowd/Fujitsu_K5_User_Onboarding_Demo.git
+[submodule "K5_Load_Testing"]
+	path = K5_Load_Testing
+	url = https://github.com/allthingsclowd/K5_Load_Testing.git
+[submodule "K5_Load_Testing_V3"]
+	path = K5_Load_Testing_V3
+	url = https://github.com/allthingsclowd/K5_Load_Testing_V3.git
+[submodule "K5_Load_Testing_V4"]
+	path = K5_Load_Testing_V4
+	url = https://github.com/allthingsclowd/K5_Load_Testing_V4.git
+[submodule "BCDemo"]
+	path = BCDemo
+	url = https://github.com/allthingsclowd/BCDemo.git
+[submodule "Fujitsu_OpenStack_K5_Heat_Cookie_Cutter"]
+	path = Fujitsu_OpenStack_K5_Heat_Cookie_Cutter
+	url = https://github.com/allthingsclowd/Fujitsu_OpenStack_K5_Heat_Cookie_Cutter.git
+[submodule "K5_Object_Storage_API_Demo"]
+	path = K5_Object_Storage_API_Demo
+	url = https://github.com/allthingsclowd/K5_Object_Storage_API_Demo.git
+[submodule "K5_Security_Group_API_Demo"]
+	path = K5_Security_Group_API_Demo
+	url = https://github.com/allthingsclowd/K5_Security_Group_API_Demo.git
+[submodule "K5_Angular_2_Example_Login"]
+	path = K5_Angular_2_Example_Login
+	url = https://github.com/allthingsclowd/K5_Angular_2_Example_Login.git
+[submodule "K5_Multi_Network_Example_Script"]
+	path = K5_Multi_Network_Example_Script
+	url = https://github.com/allthingsclowd/K5_Multi_Network_Example_Script.git
+[submodule "OpenStack_KeystoneV3_Angular4"]
+	path = OpenStack_KeystoneV3_Angular4
+	url = https://github.com/allthingsclowd/OpenStack_KeystoneV3_Angular4.git
