@@ -1,0 +1,6 @@
+[submodule "K5_Public_Scripts"]
+	path = K5_Public_Scripts
+	url = https://github.com/allthingsclowd/K5_Public_Scripts.git
+[submodule "K5-Public-Stacks"]
+	path = K5-Public-Stacks
+	url = https://github.com/allthingsclowd/K5-Public-Stacks.git
