@@ -43,3 +43,6 @@
 [submodule "OpenStack_KeystoneV3_Angular4"]
 	path = OpenStack_KeystoneV3_Angular4
 	url = https://github.com/allthingsclowd/OpenStack_KeystoneV3_Angular4.git
+[submodule "K5-InterProject-Demo"]
+	path = K5-InterProject-Demo
+	url = https://github.com/allthingsclowd/K5-InterProject-Demo.git
